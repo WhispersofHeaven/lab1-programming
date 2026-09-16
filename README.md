@@ -1,1 +1,1 @@
-# lab1-progtamming
+# lab1-programming
